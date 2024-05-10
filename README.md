@@ -41,7 +41,7 @@ Total of 02 risks were identified during the test.
 
 #### Hardcoded secrets: Send False Notification to All Users on the Platform
 
-![Hardcoded secrets : Send False Notification to All Users on the Platform](vid/vidio1.gif)
+![Hardcoded secrets : Send False Notification to All Users on the Platform](vid/video1.gif)
 
 #### Account Takeover: Access to Any User Account
 
