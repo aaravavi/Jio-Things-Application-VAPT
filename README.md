@@ -39,7 +39,7 @@ Total of 02 risks were identified during the test.
 
 ### Vulnerabilities
 
-#### Hardcoded secrets : Send False Notification to All Users on the Platform
+#### Hardcoded secrets: Send False Notification to All Users on the Platform
 
 ![Hardcoded secrets : Send False Notification to All Users on the Platform](vid/vidio1.gif)
 
