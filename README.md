@@ -40,10 +40,12 @@ Total of 02 risks were identified during the test.
 ### Vulnerabilities
 
 #### Hardcoded secrets: Send False Notification to All Users on the Platform
+#### CVE-2024-25271
 
 ![Hardcoded secrets : Send False Notification to All Users on the Platform](vid/video1.gif)
 
 #### Account Takeover: Access to Any User Account
+#### CVE-2024-24143
 
 ![Account Takeover: Access to Any User Account](vid/video2.gif)
 
